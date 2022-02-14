@@ -4,8 +4,9 @@ setTimeout(function(){
 
 
 function removeElementsByClass(className){
+    
     var iframe = document.getElementById("computer3d");
-    const elements = iframe.document.getElementsByClassName(className);
+    const elements = iframe.contentWindow.document.getElementsByClassName(className);
     console.log(elements.length)
 
     while(elements.length > 0){
