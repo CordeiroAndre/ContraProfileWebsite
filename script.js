@@ -1,10 +1,11 @@
 setTimeout(function(){
     removeElementsByClass("spline-watermark");
-}, );
+},2000 );
 
 
 function removeElementsByClass(className){
-    const elements = document.getElementsByClassName(className);
+    var iframe = document.getElementById("computer3d");
+    const elements = iframe.document.getElementsByClassName(className);
     console.log(elements.length)
 
     while(elements.length > 0){
