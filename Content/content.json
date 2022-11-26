@@ -1,0 +1,23 @@
+{
+    "Page-Title": "André Gomes - Portfólio",
+    "Main-Title": "Hello World! I am André", 
+    "Main-Description": "I am a brazilian software engineer, passionate about creative development, whose believe that technology has the duty to transform lives.",
+    "Professional-Projects": [
+        {
+                "Title":"Game Engineer Middle", 
+                "Description":"Was responsible for the Metagame infrastructure (Dedicated server, Matchmaking, Friends, Party, Currencies, Stores, and more), code some gameplay features and give some back-end trainings.", 
+                "Tags":["Unreal Engine", "Multiplayer", "Physics"],
+                "Media":[
+                    {"Link":"", "Type":"Video"},
+                    {"Link":"", "Type":"Image"}
+                ]
+        }
+    ],
+    "Personal-Projects": [
+        {
+            "Title":"", 
+            "Description":"", 
+            "Media":[{"Link":"", "Type":"Video"}, {"Link":"", "Type":"Image"}]
+        }
+    ]
+}

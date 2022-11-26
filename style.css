@@ -141,3 +141,15 @@ ul.row{
   margin-left: 10%;
   margin-right: 10%;
 }
+
+.tags-wrapper{
+  margin-top: 1%;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  gap: .5%;
+}
+
+.projects{
+  margin: 0 20%;
+}
