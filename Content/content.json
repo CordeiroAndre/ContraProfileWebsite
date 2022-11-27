@@ -5,44 +5,33 @@
     "Professional-Projects": [
         {
                 "Title":"Game Engineer Middle", 
-                "Description":"Was responsible for the Metagame infrastructure (Dedicated server, Matchmaking, Friends, Party, Currencies, Stores, and more), code some gameplay features and give some back-end trainings.", 
-                "Tags":["Unreal Engine", "Multiplayer", "Physics", "Steam", "XBOX", "Play Station", "Nintendo"],
-                "Media":[
-                    {"Link":"", "Type":"Video"},
-                    {"Link":"", "Type":"Image"}
-                ]
+                "Description":"Responsible for the Metagame infrastructure (Dedicated server, Matchmaking, Friends, Party, Currencies, Stores, and more), code some gameplay features and give some back-end trainings.", 
+                "Tags":["Unreal Engine", "Multiplayer", "Physics", "Steam", "XBOX", "Play Station", "Nintendo"]
         },
         {
             "Title":"Scientific Research", 
             "Description":"On the requirements engineering topic, buit a serious mobile VR game for the subject's teacher to use in her classes.", 
-            "Tags":["Unity", "Google Cardboard", "VR", "Android"],
-            "Media":[
-                {"Link":"", "Type":"Video"},
-                {"Link":"", "Type":"Image"}
-            ]
+            "Tags":["Unity", "Google Cardboard", "VR", "Android"]
         },
         {
             "Title":"University internship", 
             "Description":"Built an Augmented reality App prototype for flood simulation.", 
-            "Tags":["Unity", "ARCore", "Android"],
-            "Media":[
-                {"Link":"", "Type":"Video"},
-                {"Link":"", "Type":"Image"}
-            ]
+            "Tags":["Unity", "ARCore", "Android"]
         }
     ],
     "Personal-Projects": [
         {
             "Title":"", 
-            "Description":"", 
-            "Media":[{"Link":"", "Type":"Video"}, {"Link":"", "Type":"Image"}]
+            "Description":"",
+            "Tags":[]
+            
         }
     ],
-    "Courses": [
+    "Education": [
         {
-            "Title":"", 
-            "Description":"", 
-            "Media":[{"Link":"", "Type":"Video"}, {"Link":"", "Type":"Image"}]
+            "Title":"Software Engineering", 
+            "Description":"Bachelor degree by University of the state of Santa Catarina",
+            "Tags":[]
         }
     ]
 }
