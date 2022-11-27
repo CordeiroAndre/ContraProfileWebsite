@@ -15,8 +15,10 @@ data["Professional-Projects"].forEach(project => {
     projectTitle.innerText = project.Title;
     projectListElement.appendChild(projectTitle);
 
+    projectListElement.appendChild(document.createElement("br"));
+
     var projectDescription = document.createElement("span");
-    projectDescription.innerText = ' - '+project.Description;
+    projectDescription.innerText = project.Description;
     projectListElement.appendChild(projectDescription);
 
     var tagsWrapper = document.createElement("div");
