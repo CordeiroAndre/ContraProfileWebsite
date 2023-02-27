@@ -6,17 +6,20 @@
         {
                 "Title":"Game Engineer Middle", 
                 "Description":"Responsible for the Metagame infrastructure (Dedicated server, Matchmaking, Friends, Party, Currencies, Stores, and more), code some gameplay features and give some back-end trainings.", 
-                "Tags":["Unreal Engine", "Multiplayer", "Physics", "Steam", "XBOX", "Play Station", "Nintendo"]
+                "Tags":["Unreal Engine", "Multiplayer", "Physics", "Steam", "XBOX", "Play Station", "Nintendo"], 
+                "imagePaths": [""]
         },
         {
             "Title":"Scientific Research", 
             "Description":"On the requirements engineering topic, buit a serious mobile VR game for the subject's teacher to use in her classes.", 
-            "Tags":["Unity", "Google Cardboard", "VR", "Android"]
+            "Tags":["Unity", "Google Cardboard", "VR", "Android"], 
+            "imagePaths": [""]
         },
         {
             "Title":"University internship", 
             "Description":"Built an Augmented reality App prototype for flood simulation.", 
-            "Tags":["Unity", "ARCore", "Android"]
+            "Tags":["Unity", "ARCore", "Android"], 
+            "imagePaths": [""]
         }
     ],
     "Personal-Projects": [
