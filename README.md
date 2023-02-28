@@ -20,7 +20,7 @@ You can also use *Spline* to create your own 3D model /Scene. After you finished
  2. Copy the link 
  3. put the link in the **Spline-Url** field in the **content.json** file.
 
- After you are finished editing, you can ![publish your code using github pages](https://youtu.be/QyFcl_Fba-k)! 
+ After you are finished editing, you can [publish your code using github pages](https://youtu.be/QyFcl_Fba-k)! 
 
 ## For the future...
 1. Media support over the project sessions. 
