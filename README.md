@@ -8,7 +8,7 @@ A unique and minimalistic profile website made out only with HTML, CSS and other
 
 <h4>Final Result</h4>
 
-![](https://github.com/CordeiroAndre/cordeiroandre.github.io/blob/main/Demo.gif?raw=true)
+![](https://github.com/CordeiroAndre/cordeiroandre.github.io/Blob/main/Demo.gif?raw=true)
 
 ## How to use it? 
 Everything you need to change is inside the **Content/content.json**.
