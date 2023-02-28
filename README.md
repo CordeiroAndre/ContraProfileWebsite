@@ -1,21 +1,24 @@
 # Contra Profile Website
-<p>A unique and minimalistic profile website made out only with HTML, CSS and other free tools.</p>
+A unique and minimalistic profile website made out only with HTML, CSS and other free tools.
 
-  
-  <section>
-  <ul>
-    <li>Following the design style of <a href="https://www.figma.com/community/file/833515051385038928">Contra design System</a> </li>
-    <li>3D Model by me!</li>
-    <li>Used <a href="https://spline.design">Spline</a> to generate the iframe wich renders the 3D model  </li>
-    <li>Everything else made with standart HTML5 and CSS3</li>
-  </ul>
-  </section>
+ - Following the design style of [Contra design System](https://www.figma.com/community/file/833515051385038928) 
+ - 3D Model Modeled by Me 
+ - Used [Spline](https://spline.design) to generate the iframe wich renders the 3D model.
+-  Everything else made with standart HTML5, CSS3, and JS
 
-  > You can start editing by downloading the source and modifying **content.json**
-  
-  <section>
-  <h4>Final Result</h4>
-  <img src="https://github.com/CordeiroAndre/cordeiroandre.github.io/blob/main/Demo.gif?raw=true"/> 
-  <a href="https://cordeiroandre.github.io">(You can also see it by yourself!)</a>
-  </section>
-  
+<h4>Final Result</h4>
+
+![](https://github.com/CordeiroAndre/cordeiroandre.github.io/blob/main/Demo.gif?raw=true)
+
+## How to use it? 
+Everything you need to change is inside the **Content/content.json**.
+> Don't know what is a JSON? no problem, [this link](https://developers.squarespace.com/what-is-json) should get you covered! 
+
+You can also use *Spline* to create your own 3D model /Scene. After you finished creating, click: 
+
+ 1. Export button 
+ 2. Copy the link 
+ 3. put the link in the **Spline-Url** field in the **content.json** file.
+
+## For the future...
+1. Media support over the project sessions. 

@@ -4,6 +4,7 @@ const tagBadge = 'https://img.shields.io/badge/{property}-e7e8ec?style=for-the-b
 document.title = data["Page-Title"];
 document.getElementById('main-title').innerText = data["Main-Title"];
 document.getElementById('main-description').innerText = data["Main-Description"];
+document.getElementById('spline').src = data["Spline-Url"];
 
 
 function createListItem(unordedListID, JsonFieldName, CssClassMark) {
