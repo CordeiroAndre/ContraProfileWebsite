@@ -6,9 +6,9 @@ A unique and minimalistic profile website made out only with HTML, CSS and other
  - Used [Spline](https://spline.design) to generate the iframe wich renders the 3D model.
 -  Everything else made with standart HTML5, CSS3, and JS
 
-<h4>Final Result</h4>
+##Final Result
 
-![](https://github.com/CordeiroAndre/cordeiroandre.github.io/Blob/main/Demo.gif?raw=true)
+![](https://github.com/CordeiroAndre/cordeiroandre.github.io/Blob/Demo.gif?raw=true)
 
 ## How to use it? 
 Everything you need to change is inside the **Content/content.json**.
