@@ -11,7 +11,7 @@ A unique and minimalistic profile website made out only with HTML, CSS and other
 ![](https://github.com/CordeiroAndre/cordeiroandre.github.io/blob/main/Blob/Demo.gif)
 
 ## How to use it? 
-Everything you need to change is inside the **Content/content.json**.
+First you will need to clone this repository, everything you need to change is inside the **Content/content.json**.
 > Don't know what is a JSON? no problem, [this link](https://developers.squarespace.com/what-is-json) should get you covered! 
 
 You can also use *Spline* to create your own 3D model /Scene. After you finished creating, click: 
@@ -19,6 +19,8 @@ You can also use *Spline* to create your own 3D model /Scene. After you finished
  1. Export button 
  2. Copy the link 
  3. put the link in the **Spline-Url** field in the **content.json** file.
+
+ After you are finished editing, you can ![publish your code using github pages](https://youtu.be/QyFcl_Fba-k)! 
 
 ## For the future...
 1. Media support over the project sessions. 
